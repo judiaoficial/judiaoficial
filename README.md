@@ -7,7 +7,7 @@ Eu sou Programadora Front End e estou criando projetos com:
 
 - <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
 
-### Conecte comigo:
+### Connect with me:
 
 - <p>
   <a href="https://www.instagram.com/judiaoficial/">
