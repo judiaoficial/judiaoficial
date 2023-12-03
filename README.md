@@ -1,6 +1,6 @@
 ### Hi there! My name is Judia.👋
 
-Eu sou Programadora Front End e atualmente estou aprendendo e criando projetos com:
+Eu sou Programadora Front End e estou criando projetos com:
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
 
