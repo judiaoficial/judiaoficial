@@ -1,7 +1,8 @@
 ### Hi there! My name is Judia.👋
 
-Eu sou Programadora Front End e estou criando projetos com:
+Sou Licenciada em Pedagogia, Técnica em Redes de Computadores e Desenvolvedora Front-end. Visto que a Tecnologia da Informação sempre foi o meu fascinio, busco aprimoramento constante para me tornar uma Programadora de excelencia e ter uma carreira de sucesso na área da Programação.
 
+### Habilidades:
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
 
