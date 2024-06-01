@@ -17,7 +17,7 @@ Sou Licenciada em Pedagogia, Técnica em Redes de Computadores e Desenvolvedora 
   </p>
   
 - <p>
-  <a href="https://www.linkedin.com/in/judia-desenvolvedora-fullstack">
+  <a href="https://www.linkedin.com/in/judia-campos-fullstack">
   <img align"left" alt="icone do instagram" width="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
  </p>
