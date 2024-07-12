@@ -1,6 +1,6 @@
 # Judia Campos👋
 
-Sou Licenciada em Pedagogia e com formação Técnica em Redes de Computadores. Estou em transição de carreira, estudando Full Stack. Visto que a Tecnologia da Informação sempre foi o meu fascinio, busco aprimoramento constante para me tornar uma Programadora de excelencia e ter uma carreira de sucesso na área da Programação.
+ Licenciatura em Pedagogia e com formação Técnica em Redes de Computadores. Fascinada por Tecnologia da Informação e me aprimorando para me tornar uma Programadora de excelencia.
 
 ### Habilidades:
 
