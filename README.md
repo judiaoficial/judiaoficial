@@ -9,6 +9,8 @@
 ### Connect with me:
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/judiaoficial/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/judia-campos-fullstack/)
+
 
   <a href="https://www.instagram.com/judiaoficial/">
   <img align"left" alt="icone do instagram" width="" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
