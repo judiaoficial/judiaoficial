@@ -2,7 +2,7 @@
 
  Licenciatura em Pedagogia e com formação Técnica em Redes de Computadores. Fascinada por Tecnologia da Informação, busco me aprimorar para me tornar uma Programadora de excelencia.
 
-### Habilidades:
+### Habilidades em Linguagem de Marcação e Estilo:
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
 
